@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# Virtualenv / env
+env/
+venv/
+.venv/
+
+# Model weights / data
+*.bin
+*.pt
+*.ckpt
+model_weights/
+
+# Secrets and config
+.env
+secrets.env
+*.key
+
+# OS
+.DS_Store
+Thumbs.db

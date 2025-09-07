@@ -1,0 +1,10 @@
+faiss-cpu
+sentence-transformers
+transformers>=4.30
+bitsandbytes
+pdfplumber
+PyPDF2
+beautifulsoup4
+markdown2
+gradio
+accelerate
